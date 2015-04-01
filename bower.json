@@ -1,0 +1,12 @@
+{
+  "name": "ngTagEditor",
+  "version": "1.0.0",
+  "main": [
+    "ngTagEditor.js",
+    "ngTagEditor.css",
+    "ngTagEditor.html"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0"
+  }
+}
